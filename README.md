@@ -39,4 +39,6 @@ En algunos equipos el comando puede ser python3 en lugar de python.
 
 ## Autoría
 
-Trabajo práctico de laboratorio. Completar aquí nombre, carrera, curso y fecha antes de entregar, si el profesor lo solicita.
+- **Estudiante:** Bryan Cantero
+- **Carrera:** Ingeniería en Informática
+- **Fecha:** 25 de noviembre de 2026
